@@ -61,6 +61,7 @@ TSLA and NFLX show the highest volatility in daily returns, making them riskier 
 AAPL, GOOG, and MSFT show more stability, making them more suitable for long-term investors seeking consistent returns.
 
 Correlation Analysis:
+
 <img width="476" alt="Screenshot 2024-09-16 at 1 51 31 PM" src="https://github.com/user-attachments/assets/f5aa3818-9feb-4323-ad30-59370fd99682">
 
 The analysis shows strong correlations between the performance of the tech stocks, with several stocks moving similarly during market trends.
